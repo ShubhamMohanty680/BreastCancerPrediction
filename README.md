@@ -3,7 +3,7 @@
 
 The breast cancer dataset is a classic and very easy binary classification dataset.This dataset uses a machine learning algorithm to classify cancer scans as benign(0) or malignant(1).
 
-#### Dataset is taken from Kaggle and stored in mongodb
+#### Dataset is taken from Kaggle and stored in Mongodb
 
 
 💿 Installing
